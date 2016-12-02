@@ -7,11 +7,6 @@ Misgendering happens to many trans people every day, and the most frequent excus
 as much, conjugation is hard, and it's just too hard to use them. Well that's were this app comes in handy, instead of having to only 
 practice on your friends, family, coworkers, etc. Now you can practice in an eviroment without the akward moment of misgendering a person. 
 
-HOW TO USE
----------------
-After unziping the Pronoun Practice App zip file, all you have to do is click Pronoun Practice - Queer Looks, but NOT the 
-application you should be running the SHOES APPLICATION.
-
 FEATURES
 ---------------
 	- Practice a predetermined set of pronouns {they, ze, xe, ne}
